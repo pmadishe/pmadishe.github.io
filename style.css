@@ -5,3 +5,7 @@ main{max-width:760px;margin:0 auto;padding:32px 16px 64px}h1{font-size:2rem;marg
 .card{background:var(--card);border-radius:16px;padding:20px 24px;margin:20px 0;box-shadow:0 1px 3px rgba(0,0,0,.08)}
 a{color:#0284c7}footer{margin-top:40px;color:var(--muted);font-size:.9rem}nav a{margin-right:16px}
 .badge{display:inline-block;background:var(--accent);color:#fff;border-radius:999px;padding:2px 12px;font-weight:600;font-size:.85rem}
+header{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;padding-bottom:12px;border-bottom:1px solid #cbd5e1;margin-bottom:20px}
+header .brand{font-weight:800;font-size:1.2rem}header nav a{margin-left:16px;margin-right:0;font-weight:600}
+.yt{display:inline-block;background:#ff0000;color:#fff !important;text-decoration:none;font-weight:700;border-radius:8px;padding:10px 18px;margin-top:8px}
+footer a{margin-right:14px}
